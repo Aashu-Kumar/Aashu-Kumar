@@ -3,11 +3,11 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,25:7C3AED,50:4F46E5,75:4338CA,100:312E81&text=Aashu%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Android%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Aashu%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Android%20Developer%20|%20AI%20ML&descAlignY=62"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Android+Developer;Artificial+Intelligence+%26+Machine+Learning;Building+Scalable+Mobile+Applications;Always+Learning+%7C+Always+Building"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Android+Developer;Artificial+Intelligence+%26+Machine+Learning;Building+Scalable+Mobile+Applications;Always+Learning+%7C+Always+Building&descAlignY=30"/>
 </p>
 
 ---

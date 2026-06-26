@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CGPA-8.57%2F10-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.65%2F10-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Class%20of-2026-4F46E5?style=for-the-badge"/>
 
@@ -384,7 +384,7 @@ Worked on Android application development with a focus on building responsive us
 
 | Recognition | Details |
 |--------------|---------|
-| 🎓 Academic Performance | Maintained **8.57 CGPA** in B.Tech Computer Science Engineering |
+| 🎓 Academic Performance | Maintained **8.65 CGPA** in B.Tech Computer Science Engineering |
 | 🤖 AI Development | Built an Android healthcare application integrating Machine Learning and Generative AI |
 | 📱 Android Development | Developed multiple Android applications using Kotlin and Java |
 | 💡 Software Engineering | Designed scalable mobile and web applications following modern development practices |
